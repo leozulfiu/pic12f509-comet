@@ -15,6 +15,7 @@ This repository contains a full hardware-to-software project which I'm currently
 - 5 green LED's
 - 5 330Ω Resistors
 - 1 Push-button
+- 1 Switch
 
 ## License
 
